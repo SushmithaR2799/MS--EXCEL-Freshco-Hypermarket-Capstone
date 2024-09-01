@@ -14,11 +14,15 @@ This project provides a thorough analysis of delivery performance, order distrib
 1. **Order Distribution at Area Level**
    - **Finding:** A large percentage of orders are concentrated in specific areas, with HSR Layout accounting for 71% of orders.
    - **Challenges:** Areas with low order distribution are influenced by factors such as distant delivery locations, lack of awareness of delivery services, and competition.
+![Screenshot 2024-09-01 225255](https://github.com/user-attachments/assets/d6a65912-c232-409d-a0dd-68f45da0848e)
 
 2. **Completion Rate Analysis**
    - **Slot vs Day of the Week:** The analysis shows variations in completion rates depending on the time slot and day, with the lowest rates observed in night slots, particularly on Saturdays.
    - **Drop Area Level:** Bommanahalli exhibits the highest completion rate at 97.72%, while some areas show significantly lower rates, indicating potential operational challenges.
    - **Acquisition Source Level:** Slight differences in completion rates across acquisition channels suggest varying levels of customer engagement and effectiveness of marketing efforts.
+![Screenshot 2024-09-01 224716](https://github.com/user-attachments/assets/325195d6-1771-4cb1-8a06-40458c54017d)
+
+   ![Screenshot 2024-09-01 225327](https://github.com/user-attachments/assets/f135a6d3-9a49-41b4-814a-a2892f83eb81)
 
 3. **Number of Products Ordered**
    - **Finding:** Completion rates fluctuate with the number of products ordered, indicating potential challenges in handling larger orders.
@@ -27,6 +31,7 @@ This project provides a thorough analysis of delivery performance, order distrib
 1. **Customer Acquisition and Behavior**
    - **User Acquisition:** Most customers were acquired through Instagram, Offline Campaigns, and Google, while Organic and Snapchat also contributed significantly.
    - **Order Distribution:** Google accounted for 23% of total orders, with other channels like Instagram, Offline Campaigns, and Organic sources showing substantial shares as well.
+![Screenshot 2024-09-01 225349](https://github.com/user-attachments/assets/befaf82b-3663-4153-a73f-71f97202ad11)
 
 2. **Customer Lifetime Value (LTV)**
    - **Distribution:** A significant portion of users have an LTV below 5000, with a small percentage reaching higher LTV brackets.
@@ -34,6 +39,7 @@ This project provides a thorough analysis of delivery performance, order distrib
 
 3. **Revenue Trends**
    - **Monthly Revenue:** Revenue shows a steady increase from January to September 2021, with a sharp rise in September, indicating successful strategies or seasonal impacts.
+![Screenshot 2024-09-01 225409](https://github.com/user-attachments/assets/d0926ef6-d52d-451e-87a1-771e2644a0be)
 
 ### Observations and Recommendations
 - **Peak Hours and Resource Allocation:** Completion rates tend to be lower during peak hours when demand is high, indicating a need for better resource allocation.
